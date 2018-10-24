@@ -16,4 +16,4 @@ $foo = new Foo;
 $bar = new Bar;
 echo($foo->myFoo()); //"Foo"
 echo($bar->myFoo()); //"Bar"
-?>
+?>,
