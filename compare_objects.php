@@ -3,6 +3,7 @@
 <?php 
 class point{
 	private $x;
+	private $e;
 	private $y;
 
 	public function __construct($x,$y){
