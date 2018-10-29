@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 void main()
-{
+{// hi
 clrscr();
 int num[3][3],i,j;
 for(i=0;i<3;i++)

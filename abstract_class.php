@@ -24,3 +24,4 @@ $obj->name("Sarthak");
 $obj->lastname("Prajapati");
 $obj->age('20');
 ?>
+jj
