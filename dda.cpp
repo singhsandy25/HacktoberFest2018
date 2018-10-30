@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream.h>
 #include<stdlib.h> //for abs function
 #include<graphics.h>
 using namespace std;
