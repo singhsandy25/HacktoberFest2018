@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-    int gd = DETECT,gm;
+    int gd = DETECT,gm; //comment
     initgraph(&gd,&gm,"");
     int x0,y0,x1,y1;
     cout<<"Enter the one end point (x0,y0) of the line";
