@@ -1,4 +1,4 @@
-<?php
+<?phP
 
 class Foo {
    function myFoo() {
