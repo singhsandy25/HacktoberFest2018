@@ -6,7 +6,7 @@ main()
 {
    int gd = DETECT, gm;
    initgraph(&gd, &gm, "");
-   outtextxy(275,0,"Bar Chart");
+   outtextxy(275,0,"Bar Chart"); // hi
 
     line(100,420,100,60);
    line(100,420,600,420);
