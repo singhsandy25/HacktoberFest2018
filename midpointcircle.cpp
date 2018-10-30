@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
     int gd = DETECT , gm;
-    initgraph(&gd, &gm,"");
+    initgraph(&gd, &gm,""); //comment
     int xc,yc;
     cout<<"Enter the center coordinates of circle"<<endl;
     cin>>xc>>yc;
